@@ -23,7 +23,7 @@ The buyer dashboard enables buyers to connect with farmers and purchase crops at
 AgriHub integrates a news API to provide users with the latest agriculture-related news and updates. Users can stay informed about industry trends, government policies, and technological advancements, helping them make informed decisions and stay ahead in their agricultural endeavors.
 
 ### Market Price Feature
-AgriHub's market price feature displays real-time market prices for various crops, allowing users to monitor price fluctuations and make data-driven decisions. Users can access current prices, historical trends, and regional variations to optimize their buying and selling strategies.
+AgriHub's market price feature displays real-time market prices for various crops, allowing users to monitor price fluctuations and make data-driven decisions. Users can access current prices, historical trends, and regional variations to optimize their buying and selling strategies
 
 ## Technologies Used
 - Flask: A micro web framework for Python used for building the web application.
